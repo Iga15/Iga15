@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, my name is Iga 👋
 
-<!--
-**Iga15/Iga15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Big Data student 
+💡 Interested in Computer Vision, Deep Learning, and Generative AI  
+🚀 Building real-time AI tools and interactive applications  
+📍 Based in Warsaw | Open to job opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Featured Projects (coming soon)
+- 🧍‍♂️ **Deepfake Detector** - Detects AI generated images of faces using custom CNN + facial landmarks  
+- 🤟 **ASL Alphabet App** - Real-time gesture recognition & practice tool  
+- 🔢 **Neural Network from Scratch** - Custom MNIST model built only with NumPy  
+- 📅 **LangChain Calendar Assistant** - Chat interface for your Google Calendar  
+- 👀 **Gaze Tracker** - Eye tracking & attention heatmaps for UX analysis  
+
+---
+
+## 🔧 Tech Stack
+Python • TensorFlow • OpenCV • MediaPipe • scikit-learn • LangChain • NumPy • Pandas
+
+---
+
+📫 **Get in touch:**  
+🔗 [www.linkedin.com/in/iga-zielińska-53127b258]
